@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc14e908-8e7c-44b9-a6c4-9582a993323e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/latgestNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/secondlargest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/checkdort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/removeduplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dkjdjdcbod.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/longSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/reverseSubarrray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/day2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2rmOHiFYjtlORwYSkbbdKENEieW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,13 +51,23 @@
   "keyToString": {
     "Python tests.Python tests for checkdort.TestSolution.executor": "Run",
     "Python tests.Python tests for checkdort.TestSolution.test_check.executor": "Run",
+    "Python.MissingNumber.executor": "Run",
+    "Python.RemoveZero.executor": "Run",
+    "Python.ReturnUnion.executor": "Run",
     "Python.checkdort.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.latgestNumber.executor": "Run",
+    "Python.linearSsearch.executor": "Run",
+    "Python.longSubarray.executor": "Run",
+    "Python.numberof1.executor": "Run",
     "Python.removeduplicate.executor": "Run",
+    "Python.reverseSubarrray.executor": "Run",
+    "Python.rotate.executor": "Run",
     "Python.secondlargest.executor": "Run",
+    "Python.singleNumber.executor": "Run",
     "Python.sjvdikolddnsjhd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,49 +79,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\Documents\GitHub\DSA\day2" />
       <recent name="C:\Users\Admin\Documents\GitHub\DSA" />
+      <recent name="C:\Users\Admin\Documents\GitHub\DSA\day3" />
+      <recent name="C:\Users\Admin\Documents\GitHub\DSA\day2" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Python tests for checkdort.TestSolution" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;checkdort.TestSolution&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for checkdort.TestSolution.test_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="DSA" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;checkdort.TestSolution.test_check&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests for checkdort.TestSolution" />
-        <item itemvalue="Python tests.Python tests for checkdort.TestSolution.test_check" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -139,7 +108,12 @@
       <workItem from="1737725413166" duration="5000" />
       <workItem from="1737814912487" duration="2718000" />
       <workItem from="1737848326559" duration="9217000" />
-      <workItem from="1737929396650" duration="8187000" />
+      <workItem from="1737929396650" duration="8566000" />
+      <workItem from="1738026278083" duration="2500000" />
+      <workItem from="1738110939520" duration="2999000" />
+      <workItem from="1738127700540" duration="5246000" />
+      <workItem from="1738192016900" duration="5987000" />
+      <workItem from="1738276744994" duration="4498000" />
     </task>
     <servers />
   </component>
@@ -167,19 +141,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/day4/removeduplicate.py</url>
-          <line>13</line>
+          <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DSA$secondlargest.coverage" NAME="secondlargest Coverage Results" MODIFIED="1737858380737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/DSA$numberof1.coverage" NAME="numberof1 Coverage Results" MODIFIED="1738194279353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
     <SUITE FILE_PATH="coverage/DSA$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1737595611250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/DSA$removeduplicate.coverage" NAME="removeduplicate Coverage Results" MODIFIED="1737938016877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/DSA$singleNumber.coverage" NAME="singleNumber Coverage Results" MODIFIED="1738197506436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7" />
+    <SUITE FILE_PATH="coverage/DSA$secondlargest.coverage" NAME="secondlargest Coverage Results" MODIFIED="1737858380737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/DSA$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1738133393457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
+    <SUITE FILE_PATH="coverage/DSA$rotate.coverage" NAME="rotate Coverage Results" MODIFIED="1738028304364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
     <SUITE FILE_PATH="coverage/DSA$latgestNumber.coverage" NAME="latgestNumber Coverage Results" MODIFIED="1737852904648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/DSA$.coverage" NAME=" Coverage Results" MODIFIED="1737932903790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
-    <SUITE FILE_PATH="coverage/DSA$removeduplicate.coverage" NAME="removeduplicate Coverage Results" MODIFIED="1737937912579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/DSA$longSubarray.coverage" NAME="longSubarray Coverage Results" MODIFIED="1738281936363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/DSA$.coverage" NAME=" Coverage Results" MODIFIED="1738128237000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/DSA$RemoveZero.coverage" NAME="RemoveZero Coverage Results" MODIFIED="1738113625321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
+    <SUITE FILE_PATH="coverage/DSA$linearSsearch.coverage" NAME="linearSsearch Coverage Results" MODIFIED="1738129261949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
+    <SUITE FILE_PATH="coverage/DSA$reverseSubarrray.coverage" NAME="reverseSubarrray Coverage Results" MODIFIED="1738282915592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/DSA$checkdort.coverage" NAME="checkdort Coverage Results" MODIFIED="1737933465267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/DSA$sjvdikolddnsjhd.coverage" NAME="sjvdikolddnsjhd Coverage Results" MODIFIED="1737816564432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/DSA$ReturnUnion.coverage" NAME="ReturnUnion Coverage Results" MODIFIED="1738128877979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
   </component>
 </project>
