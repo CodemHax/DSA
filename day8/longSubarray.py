@@ -26,7 +26,3 @@ def longestSubarrayWithSumK(a, k):
 arr = [10, 5, 2, 7, 1, -10, 00]
 k = 15
 print(longestSubarrayWithSumK(arr, k))
-
-arr = [10, 5, 2, 7, 1, -10]
-k = 15
-print(longestSubarrayWithSumK(arr, k))
