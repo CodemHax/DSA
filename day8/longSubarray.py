@@ -1,9 +1,6 @@
 #needredo
 def longestSubarrayWithSumK(a, k):
     n = len(a)
-    r = a.reverse()
-    print(r)
-    print(a)
     cur_sum = 0
     max_len = 0
     cur_sum_map = {}
