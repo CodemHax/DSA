@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc14e908-8e7c-44b9-a6c4-9582a993323e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day8/longSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day8/reverseSubarrray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/isAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/isIsomorphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9/largestOddNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9/reverseWords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -47,42 +50,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for checkdort.TestSolution.executor": "Run",
-    "Python tests.Python tests for checkdort.TestSolution.test_check.executor": "Run",
-    "Python.MissingNumber.executor": "Run",
-    "Python.RemoveZero.executor": "Run",
-    "Python.ReturnUnion.executor": "Run",
-    "Python.checkdort.executor": "Run",
-    "Python.day2.executor": "Run",
-    "Python.latgestNumber.executor": "Run",
-    "Python.linearSsearch.executor": "Run",
-    "Python.longSubarray.executor": "Run",
-    "Python.numberof1.executor": "Run",
-    "Python.removeduplicate.executor": "Run",
-    "Python.reverseSubarrray.executor": "Run",
-    "Python.rotate.executor": "Run",
-    "Python.secondlargest.executor": "Run",
-    "Python.singleNumber.executor": "Run",
-    "Python.sjvdikolddnsjhd.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for checkdort.TestSolution.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for checkdort.TestSolution.test_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveZero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReturnUnion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkdort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isIsomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largestOddNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.latgestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linearSsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberof1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.removeduplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverseSubarrray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.secondlargest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.singleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sjvdikolddnsjhd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\DSA\" />
       <recent name="C:\Users\Admin\Documents\GitHub\DSA" />
+      <recent name="C:\Users\Admin\Documents\GitHub\DSA\day7" />
       <recent name="C:\Users\Admin\Documents\GitHub\DSA\day3" />
       <recent name="C:\Users\Admin\Documents\GitHub\DSA\day2" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.isIsomorphic">
+    <configuration name="isIsomorphic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10/isIsomorphic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DSA" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9/reverseWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.isIsomorphic" />
+        <item itemvalue="Python.reverseWords" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -113,7 +176,14 @@
       <workItem from="1738110939520" duration="2999000" />
       <workItem from="1738127700540" duration="5246000" />
       <workItem from="1738192016900" duration="5987000" />
-      <workItem from="1738276744994" duration="4498000" />
+      <workItem from="1738276744994" duration="4652000" />
+      <workItem from="1738404610793" duration="11000" />
+      <workItem from="1738458647661" duration="2879000" />
+      <workItem from="1738473523965" duration="23000" />
+      <workItem from="1738629640718" duration="4444000" />
+      <workItem from="1738643572880" duration="20000" />
+      <workItem from="1738673961967" duration="1000" />
+      <workItem from="1738675183559" duration="4000" />
     </task>
     <servers />
   </component>
@@ -157,11 +227,15 @@
     <SUITE FILE_PATH="coverage/DSA$rotate.coverage" NAME="rotate Coverage Results" MODIFIED="1738028304364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
     <SUITE FILE_PATH="coverage/DSA$latgestNumber.coverage" NAME="latgestNumber Coverage Results" MODIFIED="1737852904648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
     <SUITE FILE_PATH="coverage/DSA$longSubarray.coverage" NAME="longSubarray Coverage Results" MODIFIED="1738281936363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/DSA$isAnagram.coverage" NAME="isAnagram Coverage Results" MODIFIED="1738634169211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/DSA$.coverage" NAME=" Coverage Results" MODIFIED="1738128237000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/DSA$largestOddNumber.coverage" NAME="largestOddNumber Coverage Results" MODIFIED="1738459000671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9" />
     <SUITE FILE_PATH="coverage/DSA$RemoveZero.coverage" NAME="RemoveZero Coverage Results" MODIFIED="1738113625321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
     <SUITE FILE_PATH="coverage/DSA$linearSsearch.coverage" NAME="linearSsearch Coverage Results" MODIFIED="1738129261949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
-    <SUITE FILE_PATH="coverage/DSA$reverseSubarrray.coverage" NAME="reverseSubarrray Coverage Results" MODIFIED="1738282915592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
+    <SUITE FILE_PATH="coverage/DSA$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1738460946516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9" />
+    <SUITE FILE_PATH="coverage/DSA$reverseSubarrray.coverage" NAME="reverseSubarrray Coverage Results" MODIFIED="1738283003417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/DSA$checkdort.coverage" NAME="checkdort Coverage Results" MODIFIED="1737933465267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/DSA$isIsomorphic.coverage" NAME="isIsomorphic Coverage Results" MODIFIED="1738632855276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/DSA$sjvdikolddnsjhd.coverage" NAME="sjvdikolddnsjhd Coverage Results" MODIFIED="1737816564432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
     <SUITE FILE_PATH="coverage/DSA$ReturnUnion.coverage" NAME="ReturnUnion Coverage Results" MODIFIED="1738128877979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
   </component>
