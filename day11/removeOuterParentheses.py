@@ -1,12 +1,12 @@
 def removeOuterParentheses(s):
-    stack = []
+    stack = ""
     balanced = 0
     m  = 0
     for i in s :
         if i =='(' :
             m += 1
             if balanced > 0:
-              stack.append(i)
+              stack += i
             balanced += 1
 
             print(f"balanced on {m}", balanced)
@@ -14,10 +14,9 @@ def removeOuterParentheses(s):
              m += 1
              balanced -= 1
              if balanced > 0:
-               stack.append(i)
+               stack += i
              print(f"balanced on {m}", balanced)
-    talk = " ".join(stack)
-    return str(talk).replace(" ", "")
+    return stack
 
 
 class Solution(object):
